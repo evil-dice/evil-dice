@@ -9,7 +9,7 @@ In my personal life, I'm a tech enthusiast and avid gamer, and I administrate a 
 I have a mix of professional and personal projects I host here as I tinker, learn, and grow my skillset. 
 
 ### My Professional Projects
-*Projects for small but impactful IT tools for use in professional production environments*
+*Small but impactful IT tools for use in professional production environments*
 
 - **Support Toolkit** - An extendible GUI application allowing IT teams to use scripts from a remote repository in real time
 - **DeploySync** - A GUI tool that allows IT teams to automatically update remote files based on their local versions

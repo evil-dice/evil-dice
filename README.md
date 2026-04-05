@@ -11,13 +11,13 @@ I have a mix of professional and personal projects I host here as I tinker, lear
 ### My Professional Projects
 *Small but impactful IT tools for use in professional production environments*
 
-- **Support Toolkit** - An extendable GUI application allowing IT teams to use scripts from a remote repository in real time
-- **DeploySync** - A GUI tool that allows IT teams to automatically update remote files based on their local versions
+- **Service Delivery Toolkit** - An extendable GUI application allowing IT teams to use scripts from a remote repository in real time
+- **UpSync** - A GUI tool that allows IT teams to automatically update remote files based on their local versions
 
 ### My Personal Projects
 *Tech projects for personal or public use*
 
-- **My Wrestling Universe** - A wrestling simulation app which brings the concept of WWE games' "Universe Mode" to a fully customizable PC-based experience
+- **Squared Circle Universe** - A wrestling simulation app which brings the concept of WWE games' "Universe Mode" to a fully customizable PC-based experience
 - **Strategium** - An application for Warhammer 40,000 tabletop game which allows the creation and live updating of campaign battle maps
 - **Brink SRD** - System resource document for BRINK, my original near-future tabletop role-playing game
 
